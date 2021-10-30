@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rehan, a web developer.
+- 👋 Hi, I’m Rehan, a Computer Scientist.
 - 📚 Final Year student of Bachelor of Computer Science as of October,2021
 - 🌱 I’m currently working as a freelance webdeveloper in react, with over 1 year of experience.
 - 🔎 Find me on fiverr at: www.fiverr.com/digi_developers
